@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "barlf",
+  "nome": null,
+  "file": "q3_barlf.c",
+  "best_with": "q3_dgsx.c",
+  "score": 0.6137259292431706,
+  "br": {
+    "jaccard": 0.3806818181818182,
+    "control": 0.896551724137931,
+    "idents": 0.7142857142857143,
+    "loops": 0.5,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

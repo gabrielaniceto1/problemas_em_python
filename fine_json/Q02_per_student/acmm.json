@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "acmm",
+  "nome": null,
+  "file": "q2_acmm.c",
+  "best_with": "q2_barlf.c",
+  "score": 0.6212328767123287,
+  "br": {
+    "jaccard": 0.1780821917808219,
+    "control": 1.0,
+    "idents": 0.6666666666666666,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

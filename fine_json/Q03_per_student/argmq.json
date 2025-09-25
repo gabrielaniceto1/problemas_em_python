@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "argmq",
+  "nome": null,
+  "file": "q3_argmq.c",
+  "best_with": "q3_abscl.c",
+  "score": 0.8102564102564103,
+  "br": {
+    "jaccard": 0.5256410256410257,
+    "control": 1.0,
+    "idents": 1.0,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

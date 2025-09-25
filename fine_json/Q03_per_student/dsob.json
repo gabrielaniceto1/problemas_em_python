@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "dsob",
+  "nome": null,
+  "file": "q3_dsob.c",
+  "best_with": "q3_dfm.c",
+  "score": 0.6336764705882354,
+  "br": {
+    "jaccard": 0.22794117647058823,
+    "control": 1.0,
+    "idents": 0.75,
+    "loops": 1.0,
+    "calls": 0.8
+  },
+  "status": "REVISAR"
+}

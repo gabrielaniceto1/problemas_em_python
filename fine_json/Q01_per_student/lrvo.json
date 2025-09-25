@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "lrvo",
+  "nome": null,
+  "file": "q1_lrvo.c",
+  "best_with": "q1_fem.c",
+  "score": 0.7247058823529412,
+  "br": {
+    "jaccard": 0.4117647058823529,
+    "control": 1.0,
+    "idents": 0.7333333333333333,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

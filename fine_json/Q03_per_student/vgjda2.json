@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "vgjda2",
+  "nome": null,
+  "file": "q3_vgjda2.c",
+  "best_with": "q3_argmq.c",
+  "score": 0.760351966873706,
+  "br": {
+    "jaccard": 0.4226190476190476,
+    "control": 0.9565217391304348,
+    "idents": 1.0,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

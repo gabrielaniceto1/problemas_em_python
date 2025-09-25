@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "mahf",
+  "nome": null,
+  "file": "q1_mahf.c",
+  "best_with": "q1_bssah.c",
+  "score": 0.9000000000000001,
+  "br": {
+    "jaccard": 1.0,
+    "control": 1.0,
+    "idents": 0.3333333333333333,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "acmm",
+  "nome": null,
+  "file": "q3_acmm.c",
+  "best_with": "q3_fal.c",
+  "score": 0.2889039039039039,
+  "br": {
+    "jaccard": 0.04864864864864865,
+    "control": 0.7222222222222222,
+    "idents": 0.3333333333333333,
+    "loops": 0.0,
+    "calls": 0.75
+  },
+  "status": "OK"
+}

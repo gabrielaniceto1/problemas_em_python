@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "maolf",
+  "nome": null,
+  "file": "q3_maolf.c",
+  "best_with": "q3_abscl.c",
+  "score": 0.722904591214155,
+  "br": {
+    "jaccard": 0.5167785234899329,
+    "control": 0.9090909090909091,
+    "idents": 0.5625,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

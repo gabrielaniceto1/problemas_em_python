@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "igds",
+  "nome": null,
+  "file": "q1_igds.c",
+  "best_with": "q1_fal.c",
+  "score": 0.5927812650893288,
+  "br": {
+    "jaccard": 0.23853211009174313,
+    "control": 1.0,
+    "idents": 0.3157894736842105,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "OK"
+}

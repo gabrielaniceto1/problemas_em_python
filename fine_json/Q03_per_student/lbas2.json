@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "lbas2",
+  "nome": null,
+  "file": "q3_lbas2.c",
+  "best_with": "q3_abscl.c",
+  "score": 0.7811030741410488,
+  "br": {
+    "jaccard": 0.5063291139240507,
+    "control": 1.0,
+    "idents": 0.8571428571428571,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

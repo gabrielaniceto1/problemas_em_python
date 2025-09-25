@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "dlc",
+  "nome": null,
+  "file": "q2_dlc.c",
+  "best_with": "q2_lrvo.c",
+  "score": 0.9306172839506174,
+  "br": {
+    "jaccard": 0.8765432098765432,
+    "control": 1.0,
+    "idents": 0.8666666666666667,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

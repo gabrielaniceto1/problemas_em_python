@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "maolf",
+  "nome": null,
+  "file": "q1_maolf.c",
+  "best_with": "q1_meso.c",
+  "score": 0.6826544622425629,
+  "br": {
+    "jaccard": 0.4434782608695652,
+    "control": 1.0,
+    "idents": 0.3684210526315789,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

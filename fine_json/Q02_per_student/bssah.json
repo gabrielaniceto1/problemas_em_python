@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "bssah",
+  "nome": null,
+  "file": "q2_bssah.c",
+  "best_with": "q2_dgsx.c",
+  "score": 0.8115384615384615,
+  "br": {
+    "jaccard": 0.5576923076923077,
+    "control": 1.0,
+    "idents": 0.9230769230769231,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

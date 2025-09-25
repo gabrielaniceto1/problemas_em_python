@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "bgnp",
+  "nome": null,
+  "file": "q1_bgnp.c",
+  "best_with": "q1_lbas2.c",
+  "score": 0.7270398481973435,
+  "br": {
+    "jaccard": 0.5161290322580645,
+    "control": 1.0,
+    "idents": 0.47058823529411764,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

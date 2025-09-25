@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "smbsa",
+  "nome": null,
+  "file": "q3_smbsa.c",
+  "best_with": "q3_afo.c",
+  "score": 0.5912202380952382,
+  "br": {
+    "jaccard": 0.16666666666666666,
+    "control": 0.8571428571428572,
+    "idents": 0.6875,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "OK"
+}

@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "jcvg",
+  "nome": null,
+  "file": "q3_jcvg.c",
+  "best_with": "q3_afo.c",
+  "score": 0.5879710144927536,
+  "br": {
+    "jaccard": 0.1782608695652174,
+    "control": 0.8333333333333334,
+    "idents": 0.6666666666666666,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "OK"
+}

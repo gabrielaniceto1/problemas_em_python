@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "afo",
+  "nome": null,
+  "file": "q1_afo.c",
+  "best_with": "q1_dlc.c",
+  "score": 0.8346987951807229,
+  "br": {
+    "jaccard": 0.6867469879518072,
+    "control": 1.0,
+    "idents": 0.7333333333333333,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

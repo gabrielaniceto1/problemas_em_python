@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "lrvo",
+  "nome": null,
+  "file": "q3_lrvo.c",
+  "best_with": "q3_argmq.c",
+  "score": 0.6385953608247422,
+  "br": {
+    "jaccard": 0.23711340206185566,
+    "control": 1.0,
+    "idents": 0.625,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

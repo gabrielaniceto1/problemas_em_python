@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "barlf",
+  "nome": null,
+  "file": "q2_barlf.c",
+  "best_with": "q2_amfgs.c",
+  "score": 0.7828571428571429,
+  "br": {
+    "jaccard": 0.48214285714285715,
+    "control": 1.0,
+    "idents": 0.9333333333333333,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "fal",
+  "nome": null,
+  "file": "q3_fal.c",
+  "best_with": "q3_mmrm.c",
+  "score": 0.6336635652684616,
+  "br": {
+    "jaccard": 0.32947976878612717,
+    "control": 0.8181818181818181,
+    "idents": 0.5882352941176471,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

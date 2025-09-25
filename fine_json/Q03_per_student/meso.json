@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "meso",
+  "nome": null,
+  "file": "q3_meso.c",
+  "best_with": "q3_gtc.c",
+  "score": 0.6251425247236766,
+  "br": {
+    "jaccard": 0.33507853403141363,
+    "control": 0.8055555555555556,
+    "idents": 0.5333333333333333,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

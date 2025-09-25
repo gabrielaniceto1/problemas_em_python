@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "bgnp",
+  "nome": null,
+  "file": "q3_bgnp.c",
+  "best_with": "q3_fcs.c",
+  "score": 0.563599215429879,
+  "br": {
+    "jaccard": 0.1956521739130435,
+    "control": 0.8214285714285714,
+    "idents": 0.47368421052631576,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "OK"
+}

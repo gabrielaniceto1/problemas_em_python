@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "lgof",
+  "nome": null,
+  "file": "q3_lgof.c",
+  "best_with": "q3_mgfm.c",
+  "score": 0.7129682746631899,
+  "br": {
+    "jaccard": 0.4067796610169492,
+    "control": 0.8666666666666667,
+    "idents": 0.8461538461538461,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

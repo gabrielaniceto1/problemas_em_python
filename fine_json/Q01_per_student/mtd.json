@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "mtd",
+  "nome": null,
+  "file": "q1_mtd.c",
+  "best_with": "q1_mgfm.c",
+  "score": 0.667753120665742,
+  "br": {
+    "jaccard": 0.3300970873786408,
+    "control": 1.0,
+    "idents": 0.5714285714285714,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

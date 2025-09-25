@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "chccp",
+  "nome": null,
+  "file": "q1_chccp.c",
+  "best_with": "q1_amfgs.c",
+  "score": 0.8647186147186148,
+  "br": {
+    "jaccard": 0.8701298701298701,
+    "control": 1.0,
+    "idents": 0.4444444444444444,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

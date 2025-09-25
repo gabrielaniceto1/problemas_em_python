@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "abscl",
+  "nome": null,
+  "file": "q2_abscl.c",
+  "best_with": "q2_barlf.c",
+  "score": 0.6558823529411765,
+  "br": {
+    "jaccard": 0.22794117647058823,
+    "control": 1.0,
+    "idents": 0.7647058823529411,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

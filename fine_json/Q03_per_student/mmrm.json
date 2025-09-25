@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "mmrm",
+  "nome": null,
+  "file": "q3_mmrm.c",
+  "best_with": "q3_jppp.c",
+  "score": 0.7884748367268536,
+  "br": {
+    "jaccard": 0.708029197080292,
+    "control": 1.0,
+    "idents": 0.3684210526315789,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

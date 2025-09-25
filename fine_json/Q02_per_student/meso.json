@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "meso",
+  "nome": null,
+  "file": "q2_meso.c",
+  "best_with": "q2_mahf.c",
+  "score": 0.8504672897196262,
+  "br": {
+    "jaccard": 0.6261682242990654,
+    "control": 1.0,
+    "idents": 1.0,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

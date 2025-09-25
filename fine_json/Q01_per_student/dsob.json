@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "dsob",
+  "nome": null,
+  "file": "q1_dsob.c",
+  "best_with": "q1_jppp.c",
+  "score": 0.5733031674208144,
+  "br": {
+    "jaccard": 0.15384615384615385,
+    "control": 1.0,
+    "idents": 0.4117647058823529,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "OK"
+}

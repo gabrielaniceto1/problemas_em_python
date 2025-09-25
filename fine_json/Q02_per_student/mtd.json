@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "mtd",
+  "nome": null,
+  "file": "q2_mtd.c",
+  "best_with": "q2_jcvg.c",
+  "score": 0.8492784992784993,
+  "br": {
+    "jaccard": 0.6767676767676768,
+    "control": 1.0,
+    "idents": 0.8571428571428571,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

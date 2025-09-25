@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "dlc",
+  "nome": null,
+  "file": "q3_dlc.c",
+  "best_with": "—",
+  "score": 0.0,
+  "br": {
+    "jaccard": 0,
+    "control": 0,
+    "idents": 0,
+    "loops": 0,
+    "calls": 0
+  },
+  "status": "OK"
+}

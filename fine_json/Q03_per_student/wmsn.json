@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "wmsn",
+  "nome": null,
+  "file": "q3_wmsn.c",
+  "best_with": "q3_dgsx.c",
+  "score": 0.6289652623798965,
+  "br": {
+    "jaccard": 0.2731707317073171,
+    "control": 0.8484848484848485,
+    "idents": 0.6666666666666666,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

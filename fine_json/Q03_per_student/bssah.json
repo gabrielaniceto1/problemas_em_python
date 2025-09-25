@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "bssah",
+  "nome": null,
+  "file": "q3_bssah.c",
+  "best_with": "q3_mmrm.c",
+  "score": 0.6289655172413793,
+  "br": {
+    "jaccard": 0.1724137931034483,
+    "control": 1.0,
+    "idents": 0.7333333333333333,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

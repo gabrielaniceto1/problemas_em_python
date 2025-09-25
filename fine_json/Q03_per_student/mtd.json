@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "mtd",
+  "nome": null,
+  "file": "q3_mtd.c",
+  "best_with": "q3_chccp.c",
+  "score": 0.6455977739397428,
+  "br": {
+    "jaccard": 0.35751295336787564,
+    "control": 0.962962962962963,
+    "idents": 0.4,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

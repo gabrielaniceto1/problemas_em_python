@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "fem",
+  "nome": null,
+  "file": "q3_fem.c",
+  "best_with": "q3_chccp.c",
+  "score": 0.6071428571428571,
+  "br": {
+    "jaccard": 0.24285714285714285,
+    "control": 1.0,
+    "idents": 0.4,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

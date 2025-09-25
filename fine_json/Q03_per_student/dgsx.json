@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "dgsx",
+  "nome": null,
+  "file": "q3_dgsx.c",
+  "best_with": "q3_gtc.c",
+  "score": 0.6446272294228426,
+  "br": {
+    "jaccard": 0.4293785310734463,
+    "control": 0.8055555555555556,
+    "idents": 0.4117647058823529,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

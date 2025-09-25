@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "mfpc",
+  "nome": null,
+  "file": "q1_mfpc.c",
+  "best_with": "q1_fem.c",
+  "score": 0.8371052631578948,
+  "br": {
+    "jaccard": 0.8552631578947368,
+    "control": 1.0,
+    "idents": 0.3,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

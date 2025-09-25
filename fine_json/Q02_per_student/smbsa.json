@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "smbsa",
+  "nome": null,
+  "file": "q2_smbsa.c",
+  "best_with": "q2_mgfm.c",
+  "score": 1.0000000000000002,
+  "br": {
+    "jaccard": 1.0,
+    "control": 1.0,
+    "idents": 1.0,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

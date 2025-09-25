@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "lgof",
+  "nome": null,
+  "file": "q2_lgof.c",
+  "best_with": "q2_afo.c",
+  "score": 0.9103896103896104,
+  "br": {
+    "jaccard": 0.8295454545454546,
+    "control": 1.0,
+    "idents": 0.8571428571428571,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

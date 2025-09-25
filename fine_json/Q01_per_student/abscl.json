@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "abscl",
+  "nome": null,
+  "file": "q1_abscl.c",
+  "best_with": "q1_mmrm.c",
+  "score": 0.5662828947368421,
+  "br": {
+    "jaccard": 0.1328125,
+    "control": 1.0,
+    "idents": 0.42105263157894735,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "OK"
+}

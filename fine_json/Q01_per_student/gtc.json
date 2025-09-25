@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "gtc",
+  "nome": null,
+  "file": "q1_gtc.c",
+  "best_with": "q1_amfgs.c",
+  "score": 0.9785714285714286,
+  "br": {
+    "jaccard": 1.0,
+    "control": 1.0,
+    "idents": 0.8571428571428571,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

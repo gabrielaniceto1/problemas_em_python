@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "dsob",
+  "nome": null,
+  "file": "q2_dsob.c",
+  "best_with": "q2_dfm.c",
+  "score": 0.5862190626645603,
+  "br": {
+    "jaccard": 0.15165876777251186,
+    "control": 0.7777777777777778,
+    "idents": 0.8,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "OK"
+}

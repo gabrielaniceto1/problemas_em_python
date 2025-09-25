@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "argmq",
+  "nome": null,
+  "file": "q2_argmq.c",
+  "best_with": "q2_lbas2.c",
+  "score": 0.7382823529411765,
+  "br": {
+    "jaccard": 0.456,
+    "control": 1.0,
+    "idents": 0.7058823529411765,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "smbsa",
+  "nome": null,
+  "file": "q1_smbsa.c",
+  "best_with": "q1_fcs.c",
+  "score": 0.7819522471910112,
+  "br": {
+    "jaccard": 0.5955056179775281,
+    "control": 1.0,
+    "idents": 0.625,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

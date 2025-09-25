@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "rvm2",
+  "nome": null,
+  "file": "q3_rvm2.c",
+  "best_with": "q3_chccp.c",
+  "score": 0.6269349845201239,
+  "br": {
+    "jaccard": 0.2647058823529412,
+    "control": 1.0,
+    "idents": 0.47368421052631576,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

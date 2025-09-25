@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "mgfm",
+  "nome": null,
+  "file": "q3_mgfm.c",
+  "best_with": "q3_afo.c",
+  "score": 0.8853053435114504,
+  "br": {
+    "jaccard": 0.9007633587786259,
+    "control": 1.0,
+    "idents": 0.5,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

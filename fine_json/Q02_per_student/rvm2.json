@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "rvm2",
+  "nome": null,
+  "file": "q2_rvm2.c",
+  "best_with": "q2_dlc.c",
+  "score": 0.889090909090909,
+  "br": {
+    "jaccard": 0.7727272727272727,
+    "control": 1.0,
+    "idents": 0.8666666666666667,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

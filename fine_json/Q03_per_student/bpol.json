@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "bpol",
+  "nome": null,
+  "file": "q3_bpol.c",
+  "best_with": "—",
+  "score": 0.0,
+  "br": {
+    "jaccard": 0,
+    "control": 0,
+    "idents": 0,
+    "loops": 0,
+    "calls": 0
+  },
+  "status": "OK"
+}

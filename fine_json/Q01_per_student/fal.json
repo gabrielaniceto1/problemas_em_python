@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "fal",
+  "nome": null,
+  "file": "q1_fal.c",
+  "best_with": "q1_maolf.c",
+  "score": 0.6366666666666666,
+  "br": {
+    "jaccard": 0.3,
+    "control": 1.0,
+    "idents": 0.4444444444444444,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

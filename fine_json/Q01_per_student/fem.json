@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "fem",
+  "nome": null,
+  "file": "q1_fem.c",
+  "best_with": "q1_lgof.c",
+  "score": 0.8482467532467534,
+  "br": {
+    "jaccard": 0.8831168831168831,
+    "control": 1.0,
+    "idents": 0.3,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

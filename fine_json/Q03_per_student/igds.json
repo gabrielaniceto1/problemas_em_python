@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "igds",
+  "nome": null,
+  "file": "q3_igds.c",
+  "best_with": "q3_gtc.c",
+  "score": 0.6087209302325581,
+  "br": {
+    "jaccard": 0.20930232558139536,
+    "control": 1.0,
+    "idents": 0.5,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

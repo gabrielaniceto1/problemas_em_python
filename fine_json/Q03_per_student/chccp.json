@@ -1,0 +1,16 @@
+{
+  "question": 3,
+  "sigla": "chccp",
+  "nome": null,
+  "file": "q3_chccp.c",
+  "best_with": "q3_lbas2.c",
+  "score": 0.6593122909698997,
+  "br": {
+    "jaccard": 0.3423913043478261,
+    "control": 0.8461538461538461,
+    "idents": 0.6875,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

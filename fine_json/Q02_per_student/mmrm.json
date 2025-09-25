@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "mmrm",
+  "nome": null,
+  "file": "q2_mmrm.c",
+  "best_with": "q2_mgfm.c",
+  "score": 0.8038141470180304,
+  "br": {
+    "jaccard": 0.5631067961165048,
+    "control": 1.0,
+    "idents": 0.8571428571428571,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

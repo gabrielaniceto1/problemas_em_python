@@ -1,0 +1,736 @@
+<!doctype html>
+<html lang="pt-br">
+<head>
+<meta charset="utf-8">
+<title>Similaridade C — submissions</title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+  :root {
+    --bg:#0b1020; --card:#121a33; --muted:#93a4c3; --text:#e8efff; --accent:#8ab4ff; --ok:#7ad97a; --warn:#ffd36e;
+  }
+  * { box-sizing: border-box; }
+  body { margin: 0; font-family: system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; background: var(--bg); color: var(--text); }
+  header { padding: 24px; border-bottom: 1px solid #213055; background: linear-gradient(180deg,#0f1630,transparent); }
+  h1 { margin: 0 0 6px; font-weight: 700; letter-spacing: .3px; }
+  .sub { color: var(--muted); font-size: 14px; }
+  main { padding: 24px; max-width: 1100px; margin: 0 auto; }
+  .card { background: var(--card); border: 1px solid #1f2b4b; border-radius: 16px; padding: 16px; margin-bottom: 20px; }
+  .qtitle { margin: 6px 0 12px; }
+  table { width: 100%; border-collapse: collapse; font-size: 14px; }
+  th, td { padding: 10px 12px; border-bottom: 1px solid #1f2b4b; text-align: left; }
+  th { color: var(--muted); font-weight: 600; }
+  tr:hover td { background: rgba(255,255,255,0.03); }
+  .pct { font-variant-numeric: tabular-nums; font-weight: 600; }
+  .good { color: var(--ok); }
+  .mid { color: var(--warn); }
+  .low { color: var(--muted); }
+  footer { color: var(--muted); font-size: 12px; padding: 24px; text-align:center; }
+  .pill { display:inline-block; padding: 2px 8px; border-radius: 999px; border:1px solid #2a3c6e; color: var(--muted); font-size: 12px; }
+</style>
+</head>
+<body>
+<header>
+  <h1>Relatório de Similaridade — submissions</h1>
+  <div class="sub">Gerado em 2025-08-29 13:16:43 · k-shingles = 5 · Normalização de identificadores = sim</div>
+</header>
+<main>
+  <section class="card">
+    <h2 class="qtitle">Questão Q01</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Arquivo</th>
+          <th>Maior Similaridade com</th>
+          <th>Similaridade (Jaccard)</th>
+          <th>Similaridade (Cosseno)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>q1_amfgs.c</td>
+          <td>q1_dlc.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q1_bssah.c</td>
+          <td>q1_mahf.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q1_dlc.c</td>
+          <td>q1_amfgs.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q1_gtc.c</td>
+          <td>q1_amfgs.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q1_jcvg.c</td>
+          <td>q1_amfgs.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q1_mahf.c</td>
+          <td>q1_bssah.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q1_fcs.c</td>
+          <td>q1_wmsn.c</td>
+          <td class="pct good">88.3%</td>
+          <td class="pct">99.9%</td>
+        </tr>
+        <tr>
+          <td>q1_fem.c</td>
+          <td>q1_lgof.c</td>
+          <td class="pct good">88.3%</td>
+          <td class="pct">99.9%</td>
+        </tr>
+        <tr>
+          <td>q1_lgof.c</td>
+          <td>q1_fem.c</td>
+          <td class="pct good">88.3%</td>
+          <td class="pct">99.9%</td>
+        </tr>
+        <tr>
+          <td>q1_wmsn.c</td>
+          <td>q1_fcs.c</td>
+          <td class="pct good">88.3%</td>
+          <td class="pct">99.9%</td>
+        </tr>
+        <tr>
+          <td>q1_chccp.c</td>
+          <td>q1_amfgs.c</td>
+          <td class="pct good">87.0%</td>
+          <td class="pct">99.7%</td>
+        </tr>
+        <tr>
+          <td>q1_vgjda2.c</td>
+          <td>q1_amfgs.c</td>
+          <td class="pct good">85.9%</td>
+          <td class="pct">99.6%</td>
+        </tr>
+        <tr>
+          <td>q1_mfpc.c</td>
+          <td>q1_fem.c</td>
+          <td class="pct good">85.5%</td>
+          <td class="pct">99.6%</td>
+        </tr>
+        <tr>
+          <td>q1_jppp.c</td>
+          <td>q1_lbas2.c</td>
+          <td class="pct good">84.7%</td>
+          <td class="pct">99.6%</td>
+        </tr>
+        <tr>
+          <td>q1_lbas2.c</td>
+          <td>q1_jppp.c</td>
+          <td class="pct good">84.7%</td>
+          <td class="pct">99.6%</td>
+        </tr>
+        <tr>
+          <td>q1_afo.c</td>
+          <td>q1_amfgs.c</td>
+          <td class="pct mid">68.7%</td>
+          <td class="pct">99.0%</td>
+        </tr>
+        <tr>
+          <td>q1_smbsa.c</td>
+          <td>q1_fcs.c</td>
+          <td class="pct mid">59.6%</td>
+          <td class="pct">98.7%</td>
+        </tr>
+        <tr>
+          <td>q1_mmrm.c</td>
+          <td>q1_bssah.c</td>
+          <td class="pct mid">57.5%</td>
+          <td class="pct">98.7%</td>
+        </tr>
+        <tr>
+          <td>q1_meso.c</td>
+          <td>q1_amfgs.c</td>
+          <td class="pct mid">53.0%</td>
+          <td class="pct">95.2%</td>
+        </tr>
+        <tr>
+          <td>q1_bgnp.c</td>
+          <td>q1_lbas2.c</td>
+          <td class="pct mid">51.6%</td>
+          <td class="pct">94.6%</td>
+        </tr>
+        <tr>
+          <td>q1_barlf.c</td>
+          <td>q1_dfm.c</td>
+          <td class="pct mid">46.8%</td>
+          <td class="pct">99.8%</td>
+        </tr>
+        <tr>
+          <td>q1_dfm.c</td>
+          <td>q1_barlf.c</td>
+          <td class="pct mid">46.8%</td>
+          <td class="pct">99.8%</td>
+        </tr>
+        <tr>
+          <td>q1_rvm2.c</td>
+          <td>q1_meso.c</td>
+          <td class="pct mid">46.4%</td>
+          <td class="pct">99.6%</td>
+        </tr>
+        <tr>
+          <td>q1_maolf.c</td>
+          <td>q1_meso.c</td>
+          <td class="pct mid">44.3%</td>
+          <td class="pct">96.9%</td>
+        </tr>
+        <tr>
+          <td>q1_lrvo.c</td>
+          <td>q1_chccp.c</td>
+          <td class="pct mid">44.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q1_argmq.c</td>
+          <td>q1_bssah.c</td>
+          <td class="pct low">35.8%</td>
+          <td class="pct">91.3%</td>
+        </tr>
+        <tr>
+          <td>q1_fal.c</td>
+          <td>q1_afo.c</td>
+          <td class="pct low">33.7%</td>
+          <td class="pct">96.3%</td>
+        </tr>
+        <tr>
+          <td>q1_mgfm.c</td>
+          <td>q1_mtd.c</td>
+          <td class="pct low">33.0%</td>
+          <td class="pct">97.4%</td>
+        </tr>
+        <tr>
+          <td>q1_mtd.c</td>
+          <td>q1_mgfm.c</td>
+          <td class="pct low">33.0%</td>
+          <td class="pct">97.4%</td>
+        </tr>
+        <tr>
+          <td>q1_acmm.c</td>
+          <td>q1_fcs.c</td>
+          <td class="pct low">27.4%</td>
+          <td class="pct">97.0%</td>
+        </tr>
+        <tr>
+          <td>q1_igds.c</td>
+          <td>q1_fal.c</td>
+          <td class="pct low">23.9%</td>
+          <td class="pct">97.0%</td>
+        </tr>
+        <tr>
+          <td>q1_dgsx.c</td>
+          <td>q1_fal.c</td>
+          <td class="pct low">20.7%</td>
+          <td class="pct">94.6%</td>
+        </tr>
+        <tr>
+          <td>q1_dsob.c</td>
+          <td>q1_lrvo.c</td>
+          <td class="pct low">18.6%</td>
+          <td class="pct">87.3%</td>
+        </tr>
+        <tr>
+          <td>q1_abscl.c</td>
+          <td>q1_bgnp.c</td>
+          <td class="pct low">13.7%</td>
+          <td class="pct">96.3%</td>
+        </tr>
+        <tr>
+          <td>q1_bpol.c</td>
+          <td>q1_lgof.c</td>
+          <td class="pct low">12.7%</td>
+          <td class="pct">54.2%</td>
+        </tr>
+        <tr>
+          <td>q1_jagd.c</td>
+          <td>q1_abscl.c</td>
+          <td class="pct low">0.0%</td>
+          <td class="pct">0.0%</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+  <section class="card">
+    <h2 class="qtitle">Questão Q02</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Arquivo</th>
+          <th>Maior Similaridade com</th>
+          <th>Similaridade (Jaccard)</th>
+          <th>Similaridade (Cosseno)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>q2_afo.c</td>
+          <td>q2_fal.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q2_bpol.c</td>
+          <td>q2_jagd.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q2_dgsx.c</td>
+          <td>q2_mahf.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q2_fal.c</td>
+          <td>q2_afo.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q2_jagd.c</td>
+          <td>q2_bpol.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q2_mahf.c</td>
+          <td>q2_dgsx.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q2_mgfm.c</td>
+          <td>q2_smbsa.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q2_smbsa.c</td>
+          <td>q2_mgfm.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q2_maolf.c</td>
+          <td>q2_dgsx.c</td>
+          <td class="pct good">88.8%</td>
+          <td class="pct">99.8%</td>
+        </tr>
+        <tr>
+          <td>q2_dlc.c</td>
+          <td>q2_lrvo.c</td>
+          <td class="pct good">87.7%</td>
+          <td class="pct">99.7%</td>
+        </tr>
+        <tr>
+          <td>q2_lrvo.c</td>
+          <td>q2_dlc.c</td>
+          <td class="pct good">87.7%</td>
+          <td class="pct">99.7%</td>
+        </tr>
+        <tr>
+          <td>q2_lgof.c</td>
+          <td>q2_afo.c</td>
+          <td class="pct good">83.0%</td>
+          <td class="pct">99.6%</td>
+        </tr>
+        <tr>
+          <td>q2_gtc.c</td>
+          <td>q2_wmsn.c</td>
+          <td class="pct good">82.1%</td>
+          <td class="pct">99.6%</td>
+        </tr>
+        <tr>
+          <td>q2_wmsn.c</td>
+          <td>q2_gtc.c</td>
+          <td class="pct good">82.1%</td>
+          <td class="pct">99.6%</td>
+        </tr>
+        <tr>
+          <td>q2_mfpc.c</td>
+          <td>q2_lgof.c</td>
+          <td class="pct good">77.5%</td>
+          <td class="pct">99.6%</td>
+        </tr>
+        <tr>
+          <td>q2_rvm2.c</td>
+          <td>q2_dlc.c</td>
+          <td class="pct good">77.3%</td>
+          <td class="pct">98.9%</td>
+        </tr>
+        <tr>
+          <td>q2_amfgs.c</td>
+          <td>q2_chccp.c</td>
+          <td class="pct good">76.9%</td>
+          <td class="pct">99.7%</td>
+        </tr>
+        <tr>
+          <td>q2_chccp.c</td>
+          <td>q2_amfgs.c</td>
+          <td class="pct good">76.9%</td>
+          <td class="pct">99.7%</td>
+        </tr>
+        <tr>
+          <td>q2_fcs.c</td>
+          <td>q2_afo.c</td>
+          <td class="pct mid">69.1%</td>
+          <td class="pct">99.2%</td>
+        </tr>
+        <tr>
+          <td>q2_jcvg.c</td>
+          <td>q2_mtd.c</td>
+          <td class="pct mid">67.7%</td>
+          <td class="pct">99.2%</td>
+        </tr>
+        <tr>
+          <td>q2_mtd.c</td>
+          <td>q2_jcvg.c</td>
+          <td class="pct mid">67.7%</td>
+          <td class="pct">99.2%</td>
+        </tr>
+        <tr>
+          <td>q2_meso.c</td>
+          <td>q2_dgsx.c</td>
+          <td class="pct mid">62.6%</td>
+          <td class="pct">97.7%</td>
+        </tr>
+        <tr>
+          <td>q2_lbas2.c</td>
+          <td>q2_jcvg.c</td>
+          <td class="pct mid">59.0%</td>
+          <td class="pct">99.7%</td>
+        </tr>
+        <tr>
+          <td>q2_bgnp.c</td>
+          <td>q2_jppp.c</td>
+          <td class="pct mid">58.7%</td>
+          <td class="pct">99.5%</td>
+        </tr>
+        <tr>
+          <td>q2_jppp.c</td>
+          <td>q2_bgnp.c</td>
+          <td class="pct mid">58.7%</td>
+          <td class="pct">99.5%</td>
+        </tr>
+        <tr>
+          <td>q2_mmrm.c</td>
+          <td>q2_mgfm.c</td>
+          <td class="pct mid">56.3%</td>
+          <td class="pct">99.4%</td>
+        </tr>
+        <tr>
+          <td>q2_bssah.c</td>
+          <td>q2_dgsx.c</td>
+          <td class="pct mid">55.8%</td>
+          <td class="pct">99.5%</td>
+        </tr>
+        <tr>
+          <td>q2_vgjda2.c</td>
+          <td>q2_jcvg.c</td>
+          <td class="pct mid">51.9%</td>
+          <td class="pct">99.5%</td>
+        </tr>
+        <tr>
+          <td>q2_barlf.c</td>
+          <td>q2_amfgs.c</td>
+          <td class="pct mid">48.2%</td>
+          <td class="pct">99.5%</td>
+        </tr>
+        <tr>
+          <td>q2_argmq.c</td>
+          <td>q2_lbas2.c</td>
+          <td class="pct mid">45.6%</td>
+          <td class="pct">94.5%</td>
+        </tr>
+        <tr>
+          <td>q2_igds.c</td>
+          <td>q2_jppp.c</td>
+          <td class="pct low">32.7%</td>
+          <td class="pct">98.4%</td>
+        </tr>
+        <tr>
+          <td>q2_abscl.c</td>
+          <td>q2_barlf.c</td>
+          <td class="pct low">22.8%</td>
+          <td class="pct">97.9%</td>
+        </tr>
+        <tr>
+          <td>q2_acmm.c</td>
+          <td>q2_barlf.c</td>
+          <td class="pct low">17.8%</td>
+          <td class="pct">97.2%</td>
+        </tr>
+        <tr>
+          <td>q2_dfm.c</td>
+          <td>q2_dsob.c</td>
+          <td class="pct low">15.2%</td>
+          <td class="pct">97.2%</td>
+        </tr>
+        <tr>
+          <td>q2_dsob.c</td>
+          <td>q2_dfm.c</td>
+          <td class="pct low">15.2%</td>
+          <td class="pct">97.2%</td>
+        </tr>
+        <tr>
+          <td>q2_fem.c</td>
+          <td>q2_wmsn.c</td>
+          <td class="pct low">13.9%</td>
+          <td class="pct">88.0%</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+  <section class="card">
+    <h2 class="qtitle">Questão Q03</h2>
+    <table>
+      <thead>
+        <tr>
+          <th>Arquivo</th>
+          <th>Maior Similaridade com</th>
+          <th>Similaridade (Jaccard)</th>
+          <th>Similaridade (Cosseno)</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>q3_bpol.c</td>
+          <td>q3_dlc.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q3_dlc.c</td>
+          <td>q3_bpol.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q3_jagd.c</td>
+          <td>q3_bpol.c</td>
+          <td class="pct good">100.0%</td>
+          <td class="pct">100.0%</td>
+        </tr>
+        <tr>
+          <td>q3_afo.c</td>
+          <td>q3_mgfm.c</td>
+          <td class="pct good">90.1%</td>
+          <td class="pct">99.9%</td>
+        </tr>
+        <tr>
+          <td>q3_mgfm.c</td>
+          <td>q3_afo.c</td>
+          <td class="pct good">90.1%</td>
+          <td class="pct">99.9%</td>
+        </tr>
+        <tr>
+          <td>q3_jppp.c</td>
+          <td>q3_mmrm.c</td>
+          <td class="pct good">70.8%</td>
+          <td class="pct">99.5%</td>
+        </tr>
+        <tr>
+          <td>q3_mmrm.c</td>
+          <td>q3_jppp.c</td>
+          <td class="pct good">70.8%</td>
+          <td class="pct">99.5%</td>
+        </tr>
+        <tr>
+          <td>q3_abscl.c</td>
+          <td>q3_argmq.c</td>
+          <td class="pct mid">52.6%</td>
+          <td class="pct">99.5%</td>
+        </tr>
+        <tr>
+          <td>q3_argmq.c</td>
+          <td>q3_abscl.c</td>
+          <td class="pct mid">52.6%</td>
+          <td class="pct">99.5%</td>
+        </tr>
+        <tr>
+          <td>q3_maolf.c</td>
+          <td>q3_abscl.c</td>
+          <td class="pct mid">51.7%</td>
+          <td class="pct">98.2%</td>
+        </tr>
+        <tr>
+          <td>q3_lbas2.c</td>
+          <td>q3_abscl.c</td>
+          <td class="pct mid">50.6%</td>
+          <td class="pct">99.9%</td>
+        </tr>
+        <tr>
+          <td>q3_mahf.c</td>
+          <td>q3_argmq.c</td>
+          <td class="pct mid">48.1%</td>
+          <td class="pct">99.5%</td>
+        </tr>
+        <tr>
+          <td>q3_lgof.c</td>
+          <td>q3_argmq.c</td>
+          <td class="pct mid">47.3%</td>
+          <td class="pct">96.0%</td>
+        </tr>
+        <tr>
+          <td>q3_dgsx.c</td>
+          <td>q3_gtc.c</td>
+          <td class="pct mid">42.9%</td>
+          <td class="pct">98.2%</td>
+        </tr>
+        <tr>
+          <td>q3_gtc.c</td>
+          <td>q3_dgsx.c</td>
+          <td class="pct mid">42.9%</td>
+          <td class="pct">98.2%</td>
+        </tr>
+        <tr>
+          <td>q3_fcs.c</td>
+          <td>q3_mfpc.c</td>
+          <td class="pct mid">42.7%</td>
+          <td class="pct">99.2%</td>
+        </tr>
+        <tr>
+          <td>q3_mfpc.c</td>
+          <td>q3_fcs.c</td>
+          <td class="pct mid">42.7%</td>
+          <td class="pct">99.2%</td>
+        </tr>
+        <tr>
+          <td>q3_vgjda2.c</td>
+          <td>q3_argmq.c</td>
+          <td class="pct mid">42.3%</td>
+          <td class="pct">99.3%</td>
+        </tr>
+        <tr>
+          <td>q3_barlf.c</td>
+          <td>q3_dgsx.c</td>
+          <td class="pct low">38.1%</td>
+          <td class="pct">98.9%</td>
+        </tr>
+        <tr>
+          <td>q3_chccp.c</td>
+          <td>q3_mtd.c</td>
+          <td class="pct low">35.8%</td>
+          <td class="pct">98.8%</td>
+        </tr>
+        <tr>
+          <td>q3_mtd.c</td>
+          <td>q3_chccp.c</td>
+          <td class="pct low">35.8%</td>
+          <td class="pct">98.8%</td>
+        </tr>
+        <tr>
+          <td>q3_meso.c</td>
+          <td>q3_gtc.c</td>
+          <td class="pct low">33.5%</td>
+          <td class="pct">91.6%</td>
+        </tr>
+        <tr>
+          <td>q3_fal.c</td>
+          <td>q3_mmrm.c</td>
+          <td class="pct low">32.9%</td>
+          <td class="pct">96.8%</td>
+        </tr>
+        <tr>
+          <td>q3_igds.c</td>
+          <td>q3_mmrm.c</td>
+          <td class="pct low">31.2%</td>
+          <td class="pct">94.5%</td>
+        </tr>
+        <tr>
+          <td>q3_rvm2.c</td>
+          <td>q3_fal.c</td>
+          <td class="pct low">27.7%</td>
+          <td class="pct">95.6%</td>
+        </tr>
+        <tr>
+          <td>q3_wmsn.c</td>
+          <td>q3_dgsx.c</td>
+          <td class="pct low">27.3%</td>
+          <td class="pct">95.3%</td>
+        </tr>
+        <tr>
+          <td>q3_bssah.c</td>
+          <td>q3_fcs.c</td>
+          <td class="pct low">26.3%</td>
+          <td class="pct">99.1%</td>
+        </tr>
+        <tr>
+          <td>q3_fem.c</td>
+          <td>q3_jcvg.c</td>
+          <td class="pct low">26.1%</td>
+          <td class="pct">96.5%</td>
+        </tr>
+        <tr>
+          <td>q3_jcvg.c</td>
+          <td>q3_fem.c</td>
+          <td class="pct low">26.1%</td>
+          <td class="pct">96.5%</td>
+        </tr>
+        <tr>
+          <td>q3_amfgs.c</td>
+          <td>q3_bssah.c</td>
+          <td class="pct low">25.1%</td>
+          <td class="pct">94.3%</td>
+        </tr>
+        <tr>
+          <td>q3_lrvo.c</td>
+          <td>q3_argmq.c</td>
+          <td class="pct low">23.7%</td>
+          <td class="pct">98.0%</td>
+        </tr>
+        <tr>
+          <td>q3_dfm.c</td>
+          <td>q3_dsob.c</td>
+          <td class="pct low">22.8%</td>
+          <td class="pct">94.6%</td>
+        </tr>
+        <tr>
+          <td>q3_dsob.c</td>
+          <td>q3_dfm.c</td>
+          <td class="pct low">22.8%</td>
+          <td class="pct">94.6%</td>
+        </tr>
+        <tr>
+          <td>q3_smbsa.c</td>
+          <td>q3_fcs.c</td>
+          <td class="pct low">20.5%</td>
+          <td class="pct">94.7%</td>
+        </tr>
+        <tr>
+          <td>q3_bgnp.c</td>
+          <td>q3_bssah.c</td>
+          <td class="pct low">20.3%</td>
+          <td class="pct">95.0%</td>
+        </tr>
+        <tr>
+          <td>q3_acmm.c</td>
+          <td>q3_lgof.c</td>
+          <td class="pct low">9.7%</td>
+          <td class="pct">85.6%</td>
+        </tr>
+      </tbody>
+    </table>
+  </section>
+</main>
+<footer>
+  <span class="pill">Pasta: submissions</span>
+  <div style="margin-top:10px">Somente arquivos com padrão <code>qN_SIGLA.c</code> foram considerados. Comparações ocorrem apenas dentro da mesma questão, sem repetições; exibimos somente o melhor par por arquivo (Jaccard).</div>
+</footer>
+</body>
+</html>

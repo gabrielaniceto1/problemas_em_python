@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "rvm2",
+  "nome": null,
+  "file": "q1_rvm2.c",
+  "best_with": "q1_meso.c",
+  "score": 0.6804545454545454,
+  "br": {
+    "jaccard": 0.4636363636363636,
+    "control": 1.0,
+    "idents": 0.3,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

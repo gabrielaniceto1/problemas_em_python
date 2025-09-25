@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "jppp",
+  "nome": null,
+  "file": "q1_jppp.c",
+  "best_with": "q1_lbas2.c",
+  "score": 0.838888888888889,
+  "br": {
+    "jaccard": 0.8472222222222222,
+    "control": 1.0,
+    "idents": 0.3333333333333333,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

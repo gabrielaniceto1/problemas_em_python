@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "acmm",
+  "nome": null,
+  "file": "q1_acmm.c",
+  "best_with": "q1_fcs.c",
+  "score": 0.5605865102639296,
+  "br": {
+    "jaccard": 0.27419354838709675,
+    "control": 1.0,
+    "idents": 0.2727272727272727,
+    "loops": 1.0,
+    "calls": 0.6
+  },
+  "status": "OK"
+}

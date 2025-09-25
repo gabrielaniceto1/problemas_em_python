@@ -1,0 +1,16 @@
+{
+  "question": 2,
+  "sigla": "fem",
+  "nome": null,
+  "file": "q2_fem.c",
+  "best_with": "q2_afo.c",
+  "score": 0.301313430159584,
+  "br": {
+    "jaccard": 0.1301775147928994,
+    "control": 0.4545454545454546,
+    "idents": 0.5555555555555556,
+    "loops": 0.0,
+    "calls": 0.75
+  },
+  "status": "OK"
+}

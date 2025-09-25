@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "lbas2",
+  "nome": null,
+  "file": "q1_lbas2.c",
+  "best_with": "q1_mahf.c",
+  "score": 0.8683544303797469,
+  "br": {
+    "jaccard": 0.6708860759493671,
+    "control": 1.0,
+    "idents": 1.0,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}

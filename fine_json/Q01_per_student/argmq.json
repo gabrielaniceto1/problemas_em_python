@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "argmq",
+  "nome": null,
+  "file": "q1_argmq.c",
+  "best_with": "q1_afo.c",
+  "score": 0.642926592124453,
+  "br": {
+    "jaccard": 0.2396694214876033,
+    "control": 1.0,
+    "idents": 0.6470588235294118,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "REVISAR"
+}

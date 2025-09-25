@@ -1,0 +1,16 @@
+{
+  "question": 1,
+  "sigla": "dlc",
+  "nome": null,
+  "file": "q1_dlc.c",
+  "best_with": "q1_amfgs.c",
+  "score": 0.9052631578947369,
+  "br": {
+    "jaccard": 1.0,
+    "control": 1.0,
+    "idents": 0.3684210526315789,
+    "loops": 1.0,
+    "calls": 1.0
+  },
+  "status": "SUSPEITO"
+}
